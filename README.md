@@ -62,10 +62,16 @@ There are two pie charts to represent the percentage of vaccination dose1 by the
 <div align=center><img width = "400" height= "400" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/race.png/></div>
 
 ## Hypotheses 
-### 1.The urbanization rate was positively correlated to Fully Vaccinated Rate in each state in unit state.
+### 1.The urbanization rate was positively correlated to Fully Vaccinated Rate in each state in the United States.
 <div align=center><img width = "700" height= "500" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Urbanization%20Rate%20and%20Fully%20vaccinated%20Rate.png/></div>
 
 As we can see in the chart, the blue bars show the urbanization rate, and the state has been arranged according to the rate of urbanization. As the rate of urbanization increasing, the data of Fully Vaccinated Rate has no obviously increasing. Therefore, this Hypothesis is wrong.
 
+### 2.The Income level was positively correlated to Fully Vaccinated Rate in each state in the United States.
+<div align=center><img width = "700" height= "500" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Income%20level%20and%20Fully%20vaccinated%20rate%20for%20each%20state(excluded%20NY).png/></div>
+The hypoesis is rejected. The chart represents that the state with higher income rate do not necessarily have higher fully vaccinated rate.
+
+### 3.The rate of fully vaccinated was positively correlated to the new cases of positivity of covid-19.
+<div align=center><img width = "1100" height= "350" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Positivity%20Trend%20and%20Fully%20Vaccinated%20Trend.png/></div>
 
 
