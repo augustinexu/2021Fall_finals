@@ -16,6 +16,8 @@ https://www.kaggle.com/anirbansahaanik/covid-19-vaccination-data-analysis/notebo
 
 4.https://www2.census.gov/geo/docs/reference/ua
 
+5.https://worldpopulationreview.com/state-rankings/per-capita-income-by-state
+
 ## Content of the Original Analysis
 - Data Preprocessing: Spliting date to year, month, day; Replacing all NaN Value to 0 
 - Exploratory Analysis and Visualization:
