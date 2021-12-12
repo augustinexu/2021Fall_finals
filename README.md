@@ -10,6 +10,8 @@ https://www.kaggle.com/anirbansahaanik/covid-19-vaccination-data-analysis/notebo
 ## Datasets
 1.kaggle kernels output anirbansahaanik/covid-19-vaccination-data-analysis -p /path/to/dest
 2.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Demographics-in-the-United-St/km4m-vcsb
+3.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
+4.https://data.census.gov/cedsci/table?t=Income%20and%20Poverty&g=0100000US,%240400000_0400000US72&tid=ACSST1Y2019.S1902&tp=true&hidePreview=false
 
 ## Content of the Original Analysis
 - Data Preprocessing: Spliting date to year, month, day; Replacing all NaN Value to 0 
@@ -71,7 +73,7 @@ As we can see in the chart, the blue bars show the urbanization rate, and the st
 <div align=center><img width = "700" height= "500" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Income%20level%20and%20Fully%20vaccinated%20rate%20for%20each%20state(excluded%20NY).png/></div>
 The hypoesis is rejected. The chart represents that the state with higher income rate do not necessarily have higher fully vaccinated rate.
 
-### 3.The rate of fully vaccinated was positively correlated to the new cases of positivity of covid-19.
-<div align=center><img width = "1100" height= "350" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Positivity%20Trend%20and%20Fully%20Vaccinated%20Trend.png/></div>
-
+### 3.The rate of fully vaccinated was negatively correlated to the new cases of positivity of covid-19.
+<div align=center><img width = "1100" height= "350" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Positivity%20Trend%20and%20Fully%20Vaccinated%20Trend1.png/></div>
+Between Dec 2020 to June 2021, the rate of fully vaccinated increased rapidly, and the daily new cases of positivity  decreased as well. However, after June 2021, although the rate of fully vaccinated still increased with a gentle speed, the daily new cases of positivity increased firstly. Therefore, this Hypothesis is rejected. Excepting the rate of fully vaccinated, there are some other elements which impact the new cases of positivity of covid-19.
 
