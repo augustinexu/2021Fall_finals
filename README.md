@@ -9,8 +9,11 @@ https://www.kaggle.com/anirbansahaanik/covid-19-vaccination-data-analysis/notebo
 
 ## Datasets
 1.kaggle kernels output anirbansahaanik/covid-19-vaccination-data-analysis -p /path/to/dest
+
 2.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Demographics-in-the-United-St/km4m-vcsb
+
 3.https://github.com/owid/covid-19-data
+
 4.https://www2.census.gov/geo/docs/reference/ua
 
 ## Content of the Original Analysis
