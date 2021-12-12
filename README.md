@@ -37,7 +37,7 @@ The author tried to show the overall situation of this dataset by primary data o
 <div align=center><img width = "600" height= "400" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/minimun.png/></div>
 
 ### Improvement On Exploratory Analysis 
-Our group create two new charts to show the situation of the vacciantion. The first chart shows the Global Average Daily Vaccination in a geometric map. The second one shows The Number of Fully Vaccinated in each country by using dropdown.
+Our group create two new charts to show the situation of the vacciantion. The first chart shows the Global Average Daily Vaccination in a geometric map. The second one shows The Number of Fully Vaccinated in each country by using dropdown. For better experience with interactive plots, please clone the respository to local and run with Jupyter Notebook.
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Global%20Average%20Daily%20Vaccination.png/></div>
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/each_country.png/></div>
 
@@ -47,7 +47,7 @@ For showing more information about Bangladesh, the analysis report uses line cha
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Bangladesh.png/></div>
 
 ### Improvement On Question Four
-We change the type of chart to bar charts. For the first bar chart,  the time interval has been settled as month. For the second one, there is a downdrop to choose the specific month, and it shows daily vaccinated people each day of this month.
+We change the type of chart to bar charts. For the first bar chart,  the time interval has been settled as month. For the second one, there is a downdrop to choose the specific month, and it shows daily vaccinated people each day of this month. For better experience with interactive plots, please clone the respository to local and run with Jupyter Notebook.
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Daily%20Vaccinated%20in%20Bangladesh.png/></div>
 
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Daily%20Vaccination%20of%20each%20month.png/></div>
@@ -83,3 +83,13 @@ The hypoesis is rejected. The chart represents that the state with higher income
 <div align=center><img width = "1100" height= "350" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Positivity%20Trend%20and%20Fully%20Vaccinated%20Trend1.png/></div>
 Between December 2020 to June 2021, the rate of fully vaccinated increased rapidly, and the daily new cases of positivity  decreased as well. However, after June 2021, although the rate of fully vaccinated still increased with a gentle speed, the daily new cases of positivity increased firstly. Therefore, this Hypothesis is rejected. Excepting the rate of fully vaccinated, there are some other elements which impact the new cases of positivity of covid-19.
 
+## References
+1.kaggle kernels output anirbansahaanik/covid-19-vaccination-data-analysis -p /path/to/dest
+
+2.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Demographics-in-the-United-St/km4m-vcsb
+
+3.https://github.com/owid/covid-19-data
+
+4.https://www2.census.gov/geo/docs/reference/ua
+
+5.https://worldpopulationreview.com/state-rankings/per-capita-income-by-state
