@@ -75,5 +75,5 @@ The hypoesis is rejected. The chart represents that the state with higher income
 
 ### 3.The rate of fully vaccinated was negatively correlated to the new cases of positivity of covid-19.
 <div align=center><img width = "1100" height= "350" src =https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Positivity%20Trend%20and%20Fully%20Vaccinated%20Trend1.png/></div>
-Between Dec 2020 to June 2021, the rate of fully vaccinated increased rapidly, and the daily new cases of positivity  decreased as well. However, after June 2021, although the rate of fully vaccinated still increased with a gentle speed, the daily new cases of positivity increased firstly. Therefore, this Hypothesis is rejected. Excepting the rate of fully vaccinated, there are some other elements which impact the new cases of positivity of covid-19.
+Between December 2020 to June 2021, the rate of fully vaccinated increased rapidly, and the daily new cases of positivity  decreased as well. However, after June 2021, although the rate of fully vaccinated still increased with a gentle speed, the daily new cases of positivity increased firstly. Therefore, this Hypothesis is rejected. Excepting the rate of fully vaccinated, there are some other elements which impact the new cases of positivity of covid-19.
 
