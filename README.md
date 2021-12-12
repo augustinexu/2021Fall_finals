@@ -41,18 +41,19 @@ Our group create two new charts to show the situation of the vacciantion. The fi
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Global%20Average%20Daily%20Vaccination.png/></div>
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/each_country.png/></div>
 
-### 2. Problem On Question3
+### 2. Problem On Question Three
+Question Three is 'How many people daily vaccinated in Bangladesh?'.
 For showing more information about Bangladesh, the analysis report uses line chart to show the number daily vaccinated people each day. However, there are too many days which have no data, and the data of those days maybe calculated in the later day. As a result, line chart is not suitable to show the situation of vaccinated people in Bangladesh, and it is not good to show the data of each day.  
-https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Global%20Average%20Daily%20Vaccination.png/></div>
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Bangladesh.png/></div>
 
-### Improvement On Question3
+### Improvement On Question Four
 We change the type of chart to bar charts. For the first bar chart,  the time interval has been settled as month. For the second one, there is a downdrop to choose the specific month, and it shows daily vaccinated people each day of this month.
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Daily%20Vaccinated%20in%20Bangladesh.png/></div>
 
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/Daily%20Vaccination%20of%20each%20month.png/></div>
 
 ### 3. Problem On Question4
+Question Four is 'How many people take at least one dose of vaccine in Bangladesh?'.
 The original analysis use the data of total_vaccinations_per_hundred to calculate the total percentage of people who take vaccinated each day. However, the data of total_vaccinations_per_hundred calculate the number of people who take vaccination many times since the covid-19 vaccination need to be taken sencond and third dose by each person. As a result, total percentage of people who take vaccinated each day larger than 100% in this chart.
 <div align=center><img width = "700" height= "500" src = https://github.com/augustinexu/2021Fall_finals/blob/main/plot/vaccination_population1.png/></div>
 
