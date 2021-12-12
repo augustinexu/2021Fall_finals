@@ -10,8 +10,8 @@ https://www.kaggle.com/anirbansahaanik/covid-19-vaccination-data-analysis/notebo
 ## Datasets
 1.kaggle kernels output anirbansahaanik/covid-19-vaccination-data-analysis -p /path/to/dest
 2.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Demographics-in-the-United-St/km4m-vcsb
-3.https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
-4.https://data.census.gov/cedsci/table?t=Income%20and%20Poverty&g=0100000US,%240400000_0400000US72&tid=ACSST1Y2019.S1902&tp=true&hidePreview=false
+3.https://github.com/owid/covid-19-data
+4.https://www2.census.gov/geo/docs/reference/ua
 
 ## Content of the Original Analysis
 - Data Preprocessing: Spliting date to year, month, day; Replacing all NaN Value to 0 
